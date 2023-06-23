@@ -22,7 +22,7 @@ To view the website, simply open the `index.html` file in your web browser.
 
 ## Screenshots
 
-![Website Screenshot](https://cdn.discordapp.com/attachments/703935965630169218/1121791402330837042/github-banner.jpg)
+![Website Screenshot](ss-sathirasrisathsaragithubio.png)
 
 ## Contact
 
